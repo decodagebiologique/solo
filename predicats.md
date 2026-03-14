@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Predicats"
 # parent: Tutoriels
 # nav_order: 2
